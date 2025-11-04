@@ -15,12 +15,6 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_67DC4B5480C5455AA6FB2625F577299B"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_F9273C80E1E44AE68FF07BAE3578F229"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -128,26 +122,6 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_67DC4B5480C5455AA6FB2625F577299B"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\..\\2.Documents\\LOGO-OT-MOTOR-REMOVED-BG.ico"
-            "TargetName" = "8:AirGaugeOTM_2.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_F601408AA7C94B0A9274BD1BA3BD2C75"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F9273C80E1E44AE68FF07BAE3578F229"
             {
             "SourcePath" = "8:..\\AirGaugeOTM\\App.config"
@@ -389,7 +363,7 @@
             "Target" = "8:_FBC4EC4C55C04D7C891BD222947DBDAE"
             "Folder" = "8:_9443E7D525D74C06B7031CC7352DDC63"
             "WorkingFolder" = "8:_F601408AA7C94B0A9274BD1BA3BD2C75"
-            "Icon" = "8:_67DC4B5480C5455AA6FB2625F577299B"
+            "Icon" = "8:"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_20C867484B3B4431AABFD23A56993E46"
@@ -403,7 +377,7 @@
             "Target" = "8:_FBC4EC4C55C04D7C891BD222947DBDAE"
             "Folder" = "8:_428A9F8F38734C52A90487E4186F6F39"
             "WorkingFolder" = "8:_F601408AA7C94B0A9274BD1BA3BD2C75"
-            "Icon" = "8:_67DC4B5480C5455AA6FB2625F577299B"
+            "Icon" = "8:"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_CA9716F9648F4A8A9979417BB9FA5E17"
@@ -417,7 +391,7 @@
             "Target" = "8:_FBC4EC4C55C04D7C891BD222947DBDAE"
             "Folder" = "8:_643C07737D1245CDBC448087BC3E1C89"
             "WorkingFolder" = "8:_F601408AA7C94B0A9274BD1BA3BD2C75"
-            "Icon" = "8:_67DC4B5480C5455AA6FB2625F577299B"
+            "Icon" = "8:"
             "Feature" = "8:"
             }
         }
